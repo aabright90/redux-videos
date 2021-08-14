@@ -1,0 +1,36 @@
+.ui.form {
+    margin-top: 1rem;
+    border: 1px solid #0000001a;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.ui.divided.items {
+    margin-top: 1rem !important;
+    cursor: pointer;
+}
+
+.six.wide.column {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.spinner {
+    position: absolute;
+    left: 75%;
+    right: 75%;
+    top: 300%;
+}
+
+iframe {
+    width: 100%;
+}
